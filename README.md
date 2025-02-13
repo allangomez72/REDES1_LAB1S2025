@@ -1,4 +1,7 @@
 # LABORATORIO REDES DE COMPUTADORAS 1
+#### Auxiliar: Allan Josué Gómez Cún
 
-### Ejemplo clase 3:
+#### Usuario Github: [allangomez72](https://github.com/allangomez72)
+---
+## Ejemplo clase 3:
 [EJEMPLO Y COMANDOS USADOS](/CLASE%203/README.md)
