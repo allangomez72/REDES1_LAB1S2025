@@ -1,4 +1,4 @@
-# Clase 8 - Ruteo InterVlan
+# Clase 9 - Ruteo InterVlan
 
 El siguiente fragmento de configuración pertenece a un método conocido como Router on a Stick, utilizado para permitir la comunicación entre múltiples VLANs a través de un solo enlace físico en un router. Este enfoque es común en redes donde se necesita interconectar VLANs sin el uso de un switch de nivel 3.
 
