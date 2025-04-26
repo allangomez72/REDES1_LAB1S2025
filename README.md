@@ -29,3 +29,6 @@ Conferencia
 
 ## Ejemplo clase 11:
 [EJEMPLO Y COMANDOS USADOS](/CLASE%2011/README.md)
+
+## Ejemplo clase 12:
+[EJEMPLO Y COMANDOS USADOS](/CLASE%2012/README.md)
